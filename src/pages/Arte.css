@@ -1,0 +1,125 @@
+.arte {
+  padding-top: 4rem;
+  padding-bottom: var(--section-v);
+}
+
+.arte-header {
+  padding-bottom: 3.5rem;
+  border-bottom: 1px solid var(--border);
+  max-width: 640px;
+}
+
+.arte-title {
+  font-family: var(--font-display);
+  font-size: clamp(3rem, 6vw, 5rem);
+  font-weight: 500;
+  font-style: italic;
+  line-height: 1;
+  margin-bottom: 1.5rem;
+  color: var(--text);
+}
+
+.arte-bio {
+  font-size: 0.9375rem;
+  line-height: 1.8;
+  color: var(--text-muted);
+}
+
+.arte-section {
+  padding-top: 3.5rem;
+}
+
+.arte-section-label {
+  font-size: 0.6875rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 500;
+  margin-bottom: 2rem;
+}
+
+.arte-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+
+/* ── Art card ───────────────────────────────────────── */
+.art-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  overflow: hidden;
+  transition: border-color 0.25s ease, transform 0.3s var(--ease), box-shadow 0.3s ease;
+  animation: artReveal 0.6s var(--ease) calc(var(--card-i, 0) * 0.09s) both;
+}
+
+.art-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(28, 27, 25, 0.08);
+}
+
+.art-card:hover { border-color: var(--accent); }
+
+.art-card__image {
+  width: 100%;
+  aspect-ratio: 1;
+  background: linear-gradient(135deg, #C9C5D2 0%, #D2C8C8 100%);
+  flex-shrink: 0;
+}
+
+.art-card__body {
+  padding: 1rem 1.25rem 1.25rem;
+}
+
+.art-card__title {
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-weight: 500;
+  font-style: italic;
+  color: var(--text);
+  line-height: 1.3;
+  position: relative;
+}
+
+.art-card__title::after {
+  content: '';
+  display: block;
+  height: 1px;
+  background: var(--accent);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.42s var(--ease);
+  margin-top: 0.4rem;
+}
+
+.art-card:hover .art-card__title::after { transform: scaleX(1); }
+
+.art-card__title-en {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  font-style: italic;
+  margin-top: 0.15rem;
+}
+
+.art-card__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.art-card__meta span {
+  font-size: 0.6875rem;
+  color: var(--text-muted);
+  letter-spacing: 0.03em;
+}
+
+.art-card__meta span + span::before {
+  content: '·';
+  margin-right: 0.5rem;
+}
+
+@media (max-width: 900px) { .arte-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 600px) { .arte-grid { grid-template-columns: 1fr; } }

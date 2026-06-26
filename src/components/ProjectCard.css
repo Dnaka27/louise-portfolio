@@ -1,0 +1,92 @@
+.project-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  overflow: hidden;
+  transition: border-color 0.25s ease, transform 0.3s var(--ease), box-shadow 0.3s ease;
+  animation: cardReveal 0.55s var(--ease) var(--delay, 0s) both;
+}
+
+.project-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(28, 27, 25, 0.08);
+}
+
+.project-card--wide { grid-column: span 2; }
+
+.project-card:hover { border-color: var(--accent); }
+
+.project-card__image {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  flex-shrink: 0;
+}
+
+.project-card--wide .project-card__image { aspect-ratio: 16 / 7; }
+
+.project-card__body {
+  padding: 1.25rem 1.5rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  position: relative;
+}
+
+.project-card__index {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.5rem;
+  font-size: 0.6875rem;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  opacity: 0.45;
+}
+
+.project-card__meta {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.project-card__category {
+  font-size: 0.6875rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 500;
+}
+
+.project-card__client {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.project-card__title {
+  font-family: var(--font-display);
+  font-size: 1.375rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: var(--text);
+  position: relative;
+}
+
+/* The line that walks */
+.project-card__title::after {
+  content: '';
+  display: block;
+  height: 1px;
+  background: var(--accent);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.42s var(--ease);
+  margin-top: 0.5rem;
+}
+
+.project-card:hover .project-card__title::after { transform: scaleX(1); }
+
+@media (max-width: 768px) {
+  .project-card--wide              { grid-column: span 1; }
+  .project-card--wide .project-card__image { aspect-ratio: 4 / 3; }
+}

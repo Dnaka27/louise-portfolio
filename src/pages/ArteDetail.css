@@ -1,0 +1,223 @@
+.arte-detail {
+  padding-top: 3.5rem;
+  padding-bottom: var(--section-v);
+}
+
+.back-link {
+  display: inline-block;
+  font-size: 0.8125rem;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  margin-bottom: 1.5rem;
+  transition: color 0.2s ease;
+}
+.back-link:hover { color: var(--text); }
+
+.arte-detail-header { max-width: 700px; margin-bottom: 2.5rem; }
+
+.arte-type {
+  font-size: 0.6875rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 500;
+  margin-bottom: 0.75rem;
+}
+
+.arte-detail-title {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: 500;
+  font-style: italic;
+  line-height: 1.1;
+  color: var(--text);
+}
+
+.arte-detail-title-en {
+  font-family: var(--font-display);
+  font-size: clamp(1.15rem, 2.5vw, 1.75rem);
+  font-style: italic;
+  color: var(--text-muted);
+  margin-top: 0.4rem;
+}
+
+.arte-detail-image {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  background: linear-gradient(135deg, #C9C5D2 0%, #D2C8C8 100%);
+  margin-bottom: 4rem;
+  animation: imageReveal 0.9s var(--ease) 0.2s both;
+}
+
+/* ── Body layout ────────────────────────────────────── */
+.arte-detail-body {
+  display: grid;
+  grid-template-columns: 1fr 280px;
+  gap: 5rem;
+  align-items: start;
+}
+
+.arte-block { margin-bottom: 2.5rem; }
+
+.arte-block-label {
+  font-size: 0.6875rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.arte-block-text {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: var(--text);
+  max-width: 65ch;
+}
+
+.arte-quote {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-style: italic;
+  line-height: 1.75;
+  color: var(--text-muted);
+  border-left: 2px solid var(--accent);
+  padding-left: 1.5rem;
+  max-width: 58ch;
+}
+
+/* Works in series */
+.obras-list   { list-style: none; }
+.obras-strings {
+  list-style: disc;
+  padding-left: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.obras-strings li {
+  font-size: 0.9375rem;
+  color: var(--text);
+  line-height: 1.6;
+}
+
+.obras-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 2rem;
+  padding: 0.75rem 0;
+  border-top: 1px solid var(--border);
+}
+
+.obras-title {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 0.9375rem;
+  color: var(--text);
+}
+
+.obras-meta {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+/* ── Sidebar ────────────────────────────────────────── */
+.arte-detail-sidebar {
+  border-left: 1px solid var(--border);
+  padding-left: 2.5rem;
+}
+
+.arte-sidebar-item {
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--border);
+}
+.arte-sidebar-item:first-child { padding-top: 0; }
+
+.arte-sidebar-label {
+  font-size: 0.6875rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 0.4rem;
+}
+
+.arte-sidebar-value {
+  font-size: 0.875rem;
+  color: var(--text);
+  line-height: 1.6;
+}
+
+.arte-sidebar-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+.arte-sidebar-list li {
+  font-size: 0.875rem;
+  color: var(--text);
+  line-height: 1.5;
+}
+
+/* ── Navigation ─────────────────────────────────────── */
+.arte-nav {
+  margin-top: 5rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.arte-nav-link {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  max-width: 45%;
+}
+
+.arte-nav-link--next { align-items: flex-end; text-align: right; }
+
+.nav-dir {
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.nav-title {
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-style: italic;
+  color: var(--text);
+  position: relative;
+}
+
+.nav-title::after {
+  content: '';
+  display: block;
+  height: 1px;
+  background: var(--accent);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.35s var(--ease);
+}
+
+.arte-nav-link--next .nav-title::after { transform-origin: right; }
+.arte-nav-link:hover  .nav-title::after { transform: scaleX(1); }
+
+@media (max-width: 900px) {
+  .arte-detail-body {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+  .arte-detail-sidebar {
+    border-left: none;
+    border-top: 1px solid var(--border);
+    padding-left: 0;
+    padding-top: 1.5rem;
+  }
+  .obras-item { flex-direction: column; gap: 0.2rem; }
+}
