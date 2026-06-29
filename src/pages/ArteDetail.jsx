@@ -19,7 +19,7 @@ export default function ArteDetail() {
 
   const artWork       = allArtWorks.find(w => getSlug(w.url) === slug)
   const principalMatch= principalArtProjects.find(p => getSlug(p.url) === slug)
-  const work          = { ...(artWork || {}), ...(principalMatch || {}) }
+  const work          = { ...(principalMatch || {}), ...(artWork || {}) }
 
   const currentIndex = allArtWorks.findIndex(w => getSlug(w.url) === slug)
   const prevWork     = currentIndex > 0 ? allArtWorks[currentIndex - 1] : null
@@ -51,7 +51,11 @@ export default function ArteDetail() {
           )}
         </div>
 
-        <div className="arte-detail-image" aria-hidden="true" />
+        {work.cover ? (
+          <img className="arte-detail-image" src={work.cover} alt={work.titulo} />
+        ) : (
+          <div className="arte-detail-image" aria-hidden="true" />
+        )}
 
         <div className="arte-detail-body">
           <div className="arte-detail-content">

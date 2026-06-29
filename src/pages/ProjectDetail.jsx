@@ -48,11 +48,19 @@ export default function ProjectDetail() {
           <h1 className="detail-title">{project.titulo}</h1>
         </div>
 
-        <div
-          className="detail-image"
-          style={{ background: `linear-gradient(135deg, ${colors.start} 0%, ${colors.end} 100%)` }}
-          aria-hidden="true"
-        />
+        {project.cover ? (
+          <img
+            className="detail-image"
+            src={project.cover}
+            alt={project.titulo}
+          />
+        ) : (
+          <div
+            className="detail-image"
+            style={{ background: `linear-gradient(135deg, ${colors.start} 0%, ${colors.end} 100%)` }}
+            aria-hidden="true"
+          />
+        )}
 
         <div className="detail-body">
           <div className="detail-content">

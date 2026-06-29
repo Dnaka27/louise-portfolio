@@ -67,6 +67,8 @@
   aspect-ratio: 1;
   background: linear-gradient(135deg, #C9C5D2 0%, #D2C8C8 100%);
   flex-shrink: 0;
+  object-fit: cover;
+  display: block;
 }
 
 .art-card__body {

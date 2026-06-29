@@ -46,7 +46,11 @@ function ArtCard({ work, index }) {
       className="art-card"
       style={{ '--card-i': index }}
     >
-      <div className="art-card__image" aria-hidden="true" />
+      {work.cover ? (
+        <img className="art-card__image" src={work.cover} alt="" loading="lazy" />
+      ) : (
+        <div className="art-card__image" aria-hidden="true" />
+      )}
       <div className="art-card__body">
         <p className="art-card__title">{work.titulo}</p>
         {work.titulo_en && (

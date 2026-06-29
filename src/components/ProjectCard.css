@@ -21,6 +21,8 @@
   width: 100%;
   aspect-ratio: 4 / 3;
   flex-shrink: 0;
+  object-fit: cover;
+  display: block;
 }
 
 .project-card--wide .project-card__image { aspect-ratio: 16 / 7; }

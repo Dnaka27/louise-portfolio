@@ -4,45 +4,132 @@
     "nome": "Louise Kanefuku",
     "titulo_profissional": "Multidisciplinary designer and visual storyteller",
     "bio": "Helping brands and organizations connect with people through meaningful design",
-    "bio_extendida": "Designer, artista e mãe brasileira com mais de 15 anos de experiência. Ajudando brands, studios, e organizações a contar suas histórias através de design centrado no humano.",
+    "bio_extendida": "Brazilian designer, artist and mother with over 15 years of experience. Helping brands, studios, and organizations tell their stories through human-centered design.",
     "sobre": {
       "url": "https://louisekanefuku.com/about",
-      "origem": "Porto Alegre, Brasil",
-      "interesses": "Colaborações com empresas e ONGs orientadas por propósito social",
-      "clientes": ["Disney+", "BMW Foundation", "Leo Burnett", "Viação Ouro e Prata", "Intercity Hotels"],
+      "origem": "Porto Alegre, Brazil",
+      "interesses": "Collaborations with purpose-driven companies and NGOs",
+      "clientes": [
+        "Disney+",
+        "BMW Foundation",
+        "Leo Burnett",
+        "Viação Ouro e Prata",
+        "Intercity Hotels"
+      ],
       "premios": [
-        "Arte Jovem 2020 (Millenium BCP)",
-        "Exposição individual na Abreu Advogados, Lisboa (2021)",
-        "Obras em coleções públicas: MARGS e MACRS (Brasil)"
+        "Arte Jovem 2020 — Millenium BCP",
+        "Solo exhibition at Abreu Advogados, Lisbon (2021)",
+        "Works in public collections: MARGS and MACRS (Brazil)"
       ],
       "formacao": [
-        { "titulo": "Master em Interface Design", "instituicao": "Aela", "status": "Completo" },
-        { "titulo": "MBA em Marketing, Branding e Growth", "instituicao": "PUCRS" },
-        { "titulo": "Master em Fine Arts", "instituicao": "Universidade do Porto" },
-        { "titulo": "Bachelor em Visual Arts", "instituicao": "UFRGS" },
-        { "titulo": "Bachelor em Advertising", "instituicao": "UFRGS" }
+        {
+          "titulo": "Master in Interface Design",
+          "instituicao": "Aela",
+          "status": "Complete"
+        },
+        {
+          "titulo": "MBA in Marketing, Branding and Growth",
+          "instituicao": "PUCRS"
+        },
+        {
+          "titulo": "Master in Fine Arts",
+          "instituicao": "University of Porto"
+        },
+        {
+          "titulo": "Bachelor in Visual Arts",
+          "instituicao": "UFRGS"
+        },
+        {
+          "titulo": "Bachelor in Advertising",
+          "instituicao": "UFRGS"
+        }
       ],
       "experiencia_profissional": [
-        { "cargo": "Visual Designer", "empresa": "FUSED", "local": "Florida, EUA (Remoto)", "periodo": "2022 - atual" },
-        { "cargo": "Freelancer Graphic Designer", "empresa": "BMW Foundation", "local": "Berlim", "periodo": "2023" },
-        { "cargo": "Freelancer Graphic Designer", "empresa": "Disney Plus Portugal", "periodo": "2021" },
-        { "cargo": "Proprietária", "empresa": "Woolf Studio", "local": "Portugal", "periodo": "2019" },
-        { "cargo": "Primeira Art Director", "empresa": "Tambor Comunicação", "periodo": "2015" },
-        { "cargo": "Graphic Designer", "empresa": "Viação Ouro e Prata", "periodo": "2014" },
-        { "cargo": "Primeira Art Director", "empresa": "Sarau Comunicação", "periodo": "2013" },
-        { "cargo": "Co-fundadora e Art Director", "empresa": "Tambor Comunicação", "periodo": "2008" },
-        { "cargo": "Graphic Design Trainee", "empresa": "Maruni Co.", "local": "Japão", "periodo": "2008" },
-        { "cargo": "Jr Art Director", "empresa": "Mais Comunicação", "periodo": "2007" }
+        {
+          "cargo": "Visual Designer",
+          "empresa": "FUSED",
+          "local": "Florida, USA (Remote)",
+          "periodo": "2022 – present"
+        },
+        {
+          "cargo": "Freelance Graphic Designer",
+          "empresa": "BMW Foundation",
+          "local": "Berlin",
+          "periodo": "2023"
+        },
+        {
+          "cargo": "Freelance Graphic Designer",
+          "empresa": "Disney Plus Portugal",
+          "periodo": "2021"
+        },
+        {
+          "cargo": "Owner",
+          "empresa": "Woolf Studio",
+          "local": "Portugal",
+          "periodo": "2019"
+        },
+        {
+          "cargo": "First Art Director",
+          "empresa": "Tambor Comunicação",
+          "periodo": "2015"
+        },
+        {
+          "cargo": "Graphic Designer",
+          "empresa": "Viação Ouro e Prata",
+          "periodo": "2014"
+        },
+        {
+          "cargo": "First Art Director",
+          "empresa": "Sarau Comunicação",
+          "periodo": "2013"
+        },
+        {
+          "cargo": "Co-founder and Art Director",
+          "empresa": "Tambor Comunicação",
+          "periodo": "2008"
+        },
+        {
+          "cargo": "Graphic Design Trainee",
+          "empresa": "Maruni Co.",
+          "local": "Japan",
+          "periodo": "2008"
+        },
+        {
+          "cargo": "Jr Art Director",
+          "empresa": "Mais Comunicação",
+          "periodo": "2007"
+        }
       ]
     },
     "secoes": [
-      { "nome": "About", "url": "https://louisekanefuku.com/about" },
-      { "nome": "Overview", "url": "https://louisekanefuku.com/all" },
-      { "nome": "Brand", "url": "https://louisekanefuku.com/brands" },
-      { "nome": "Digital Marketing", "url": "https://louisekanefuku.com/promotional" },
-      { "nome": "Illustration", "url": "https://louisekanefuku.com/illustration" },
-      { "nome": "Editorial", "url": "https://louisekanefuku.com/editorial" },
-      { "nome": "Data Visualization", "url": "https://louisekanefuku.com/data-visualization" }
+      {
+        "nome": "About",
+        "url": "https://louisekanefuku.com/about"
+      },
+      {
+        "nome": "Overview",
+        "url": "https://louisekanefuku.com/all"
+      },
+      {
+        "nome": "Brand",
+        "url": "https://louisekanefuku.com/brands"
+      },
+      {
+        "nome": "Digital Marketing",
+        "url": "https://louisekanefuku.com/promotional"
+      },
+      {
+        "nome": "Illustration",
+        "url": "https://louisekanefuku.com/illustration"
+      },
+      {
+        "nome": "Editorial",
+        "url": "https://louisekanefuku.com/editorial"
+      },
+      {
+        "nome": "Data Visualization",
+        "url": "https://louisekanefuku.com/data-visualization"
+      }
     ],
     "areas_de_especialidade": [
       "Brand design",
@@ -56,231 +143,425 @@
       {
         "titulo": "BMW Foundation: Mobility for Human Development Report",
         "url": "https://louisekanefuku.com/mobility-for-human-development-report",
-        "categorias": ["Editorial Design", "Report Design", "Data Visualization", "Brand Identity"],
-        "clientes": ["BMW Foundation RESPOND", "MIT Solve"],
-        "descricao": "Relatório desenvolvido em parceria entre a iniciativa RESPOND da BMW Foundation e MIT Solve, baseado em insights de cinco workshops liderados por especialistas globalmente. O projeto buscava criar um relatório visualmente envolvente que incorporasse o conceito de mobilidade enquanto aderia às diretrizes de identidade da RESPOND.",
-        "abordagem_visual": "Gotas em expansão, simbolizando movimento e descentralização. Inclui mapa de tendências globais e relatórios regionais detalhados.",
+        "categorias": [
+          "Editorial Design",
+          "Report Design",
+          "Data Visualization",
+          "Brand Identity"
+        ],
+        "clientes": [
+          "BMW Foundation RESPOND",
+          "MIT Solve"
+        ],
+        "descricao": "Report developed in partnership between BMW Foundation's RESPOND initiative and MIT Solve, based on insights from five expert-led workshops held globally. The project aimed to create a visually engaging report that embodied the concept of mobility while adhering to RESPOND's identity guidelines.",
+        "abordagem_visual": "Expanding droplets symbolizing movement and decentralization. Includes a global trends map and detailed regional reports.",
         "papel": "Graphic Designer",
         "colaboradores": {
-          "bmw_foundation_respond": ["Heba Aguib", "Bennet Barth", "Esben Ehrenriech", "Verena Finkenzeller", "Thomas Roehrl"],
-          "mit_solve": ["Gabriella Bianchi", "Carlos Centeno", "Alexander Dale", "Mike Lenihan", "Sara Monteabaro"]
-        }
+          "bmw_foundation_respond": [
+            "Heba Aguib",
+            "Bennet Barth",
+            "Esben Ehrenriech",
+            "Verena Finkenzeller",
+            "Thomas Roehrl"
+          ],
+          "mit_solve": [
+            "Gabriella Bianchi",
+            "Carlos Centeno",
+            "Alexander Dale",
+            "Mike Lenihan",
+            "Sara Monteabaro"
+          ]
+        },
+        "cover": "/projects/mobility-for-human-development-report.png"
       },
       {
         "titulo": "BMW Foundation: Impact Investing Report",
         "url": "https://louisekanefuku.com/bmw-foundation-1",
-        "categorias": ["Editorial Design", "Infographics", "Data Visualization"],
-        "cliente": "BMW Foundation Herbert Quandt Report team",
-        "descricao": "Primeiro relatório de impacto da BMW Foundation em uma década, mostrando como o portfólio de investimentos contribui para desafios globais urgentes.",
-        "abordagem_visual": "Conceito visual dinâmico com círculos em movimento contendo imagens dos investimentos de impacto, representando metaforicamente a jornada contínua e o efeito cascata do trabalho fundacional.",
-        "papel": "Editorial Designer",
-        "colaboradores": ["Esben Ehrenreich", "Gordian Wüst", "Johannes P. Weber", "Vincent Gstettenbauer"]
-      },
-      {
-        "titulo": "BMW Foundation: Mind maps for RISE SYNC events",
-        "url": "https://louisekanefuku.com/bmw-foundation-mind-maps",
-        "categorias": ["Data Visualization", "Graphic Facilitation", "Infographics"],
-        "cliente": "BMW Foundation",
-        "descricao": "Transformação de 16 horas de discussões em sessões de breakout em visual mind maps, organizando notas do Jamboard em visualizações estruturadas por afinidade, ligadas aos pilares RISE e aos ODS da ONU.",
-        "processo": [
-          "Coleta de dados via Jamboards validados por participantes",
-          "Organização de tópicos em clusters temáticos",
-          "Identificação de tendências relacionadas à COVID-19",
-          "Alinhamento com Objetivos de Desenvolvimento Sustentável",
-          "Design final usando paleta RISE e cores SDG oficiais"
+        "categorias": [
+          "Editorial Design",
+          "Infographics",
+          "Data Visualization"
         ],
-        "ferramentas": ["Jamboard"],
-        "colaboradores": ["Paula Quintas (BMW Foundation)"],
-        "papel": "Graphic Facilitator"
+        "cliente": "BMW Foundation Herbert Quandt Report team",
+        "descricao": "The BMW Foundation's first impact report in a decade, showcasing how its investment portfolio contributes to pressing global challenges.",
+        "abordagem_visual": "Dynamic visual concept with moving circles containing images of impact investments, metaphorically representing the continuous journey and cascading effect of the foundation's work.",
+        "papel": "Editorial Designer",
+        "colaboradores": [
+          "Esben Ehrenreich",
+          "Gordian Wüst",
+          "Johannes P. Weber",
+          "Vincent Gstettenbauer"
+        ],
+        "cover": "/projects/bmw-foundation-1.jpg"
       },
       {
-        "titulo": "BMW Foundation e FreiRaum: Illustration",
+        "titulo": "BMW Foundation: Mind Maps for RISE SYNC Events",
+        "url": "https://louisekanefuku.com/bmw-foundation-mind-maps",
+        "categorias": [
+          "Data Visualization",
+          "Graphic Facilitation",
+          "Infographics"
+        ],
+        "cliente": "BMW Foundation",
+        "descricao": "Transformation of 16 hours of breakout session discussions into visual mind maps, organizing Jamboard notes into affinity-structured visualizations aligned with the RISE pillars and UN SDGs.",
+        "processo": [
+          "Data collection via participant-validated Jamboards",
+          "Organization of topics into thematic clusters",
+          "Identification of COVID-19 related trends",
+          "Alignment with Sustainable Development Goals",
+          "Final design using the RISE palette and official SDG colors"
+        ],
+        "ferramentas": [
+          "Jamboard"
+        ],
+        "colaboradores": [
+          "Paula Quintas (BMW Foundation)"
+        ],
+        "papel": "Graphic Facilitator",
+        "cover": "/projects/bmw-foundation-mind-maps.jpg"
+      },
+      {
+        "titulo": "BMW Foundation & FreiRaum: Illustration",
         "url": "https://louisekanefuku.com/bmw-foundation-and-freiraum",
-        "categorias": ["Illustration"],
-        "clientes": ["BMW Foundation", "FreiRaum"],
-        "descricao": "Criação de ilustração original para o programa RISE Cities da BMW Foundation, focando na transformação urbana comunitária no bairro Bahnhofsviertel de Munique, inspirada no conceito Superblock de Barcelona.",
-        "abordagem_visual": "Ilustração refletindo abertura, colaboração e energia dinâmica da regeneração urbana.",
-        "uso": "Comunicação e divulgação do evento RISE City Lab Munich",
-        "papel": "Ilustradora"
+        "categorias": [
+          "Illustration"
+        ],
+        "clientes": [
+          "BMW Foundation",
+          "FreiRaum"
+        ],
+        "descricao": "Creation of an original illustration for BMW Foundation's RISE Cities program, focusing on community-driven urban transformation in Munich's Bahnhofsviertel neighborhood, inspired by Barcelona's Superblock concept.",
+        "abordagem_visual": "Illustration reflecting openness, collaboration, and the dynamic energy of urban regeneration.",
+        "uso": "Communication and promotion of the RISE City Lab Munich event",
+        "papel": "Illustrator",
+        "cover": "/projects/bmw-foundation-and-freiraum.png"
       },
       {
-        "titulo": "Studio Gagliano: Brand + Webdesign",
+        "titulo": "Studio Gagliano: Brand + Web Design",
         "url": "https://louisekanefuku.com/studio-gagliano",
-        "categorias": ["Brand", "Web Design"],
-        "cliente": "Studio Gagliano (estúdio de yoga, Vila Nova de Gaia, Portugal)",
-        "descricao": "Criação de identidade visual para estúdio de yoga localizado no jardim do Boeira Garden Hotel, propriedade de Anna Gagliano, instrutora com formação na Índia e Inglaterra.",
+        "categorias": [
+          "Brand",
+          "Web Design"
+        ],
+        "cliente": "Studio Gagliano (yoga studio, Vila Nova de Gaia, Portugal)",
+        "descricao": "Creation of a visual identity for a yoga studio located in the garden of the Boeira Garden Hotel, owned by Anna Gagliano, an instructor trained in India and England.",
         "slogan_cliente": "Yoga to restore, renew and rejuvenate",
-        "abordagem_visual": "Folha de ginkgo biloba como símbolo central, representando paz, longevidade e resiliência — sobrevivente dos bombardeios atômicos no Japão. A forma da folha evoca uma pessoa com os braços abertos.",
-        "entregas": ["Modelos de redes sociais e templates", "Flyers promocionais", "Design de website"],
-        "papel": "Designer de marca solo"
+        "abordagem_visual": "Ginkgo biloba leaf as the central symbol, representing peace, longevity, and resilience — a survivor of the atomic bombings in Japan. The shape of the leaf evokes a person with open arms.",
+        "entregas": [
+          "Social media templates and mockups",
+          "Promotional flyers",
+          "Website design"
+        ],
+        "papel": "Solo Brand Designer",
+        "cover": "/projects/studio-gagliano.jpg"
       },
       {
         "titulo": "Eixo Residências Artísticas: Brand",
         "url": "https://louisekanefuku.com/eixo-residencias-artisticas",
-        "categorias": ["Brand", "Visual Identity"],
-        "cliente": "Eixo (startup de residência artística, Mosteiró, Porto, Portugal)",
-        "descricao": "Criação de identidade visual para startup de residência artística com missão de funcionar como centro cultural fora dos grandes polos de Porto e Lisboa.",
-        "abordagem_visual": "Colônia de cogumelos como símbolo central, representando criatividade e crescimento coletivo. Paleta de cores quentes transmitindo ambiente acolhedor.",
+        "categorias": [
+          "Brand",
+          "Visual Identity"
+        ],
+        "cliente": "Eixo (artistic residency startup, Mosteiró, Porto, Portugal)",
+        "descricao": "Creation of a visual identity for an artistic residency startup with a mission to function as a cultural center outside the major hubs of Porto and Lisbon.",
+        "abordagem_visual": "A colony of mushrooms as the central symbol, representing creativity and collective growth. A warm color palette conveying a welcoming atmosphere.",
         "processo": "Brand sprint",
-        "colaborador": "Isabel Costa (líder do projeto)",
-        "reconhecimentos": ["Start-Up Voucher Portugal 2020", "TEH Startup Support Programme"],
-        "papel": "Solo graphic designer"
+        "colaborador": "Isabel Costa (project lead)",
+        "reconhecimentos": [
+          "Start-Up Voucher Portugal 2020",
+          "TEH Startup Support Programme"
+        ],
+        "papel": "Solo Graphic Designer",
+        "cover": "/projects/eixo-residencias-artisticas.jpg"
       },
       {
         "titulo": "Gaioka: Rebranding + Illustration",
         "url": "https://louisekanefuku.com/gaioka-redesenho-de-marca",
-        "categorias": ["Rebranding", "Illustration", "Visual Identity"],
-        "cliente": "Gaioka (estúdio de Nicolle Maia, arquiteta paisagista mestre em Arquitetura Sustentável)",
+        "categorias": [
+          "Rebranding",
+          "Illustration",
+          "Visual Identity"
+        ],
+        "cliente": "Gaioka (studio of Nicolle Maia, landscape architect with a Master's in Sustainable Architecture)",
         "missao_cliente": "Inspire change by planting the seed of sustainability through human-centered, nature-integrated projects",
-        "descricao": "Modernização da identidade visual do estúdio mantendo sua essência e valores originais.",
-        "abordagem_visual": "Redesenho da folha de Monstera Adansonii, atualização tipográfica contemporânea, ilustração aquarela referenciando ilustração científica.",
-        "papel": "Brand Identity Designer"
+        "descricao": "Modernization of the studio's visual identity while preserving its essence and original values.",
+        "abordagem_visual": "Redesign of the Monstera Adansonii leaf, contemporary typographic update, watercolor illustration referencing scientific illustration.",
+        "papel": "Brand Identity Designer",
+        "cover": "/projects/gaioka-redesenho-de-marca.png"
       },
       {
         "titulo": "Papirus: Infographic Illustration",
         "url": "https://louisekanefuku.com/papirus-illustration",
-        "categorias": ["Infographics", "Illustration"],
-        "cliente": "Papirus (fabricante de cartão)",
-        "descricao": "Desenvolvimento de infográfico para comunicar o ciclo de papel reciclado da Papirus em parceria com a certificadora Pólen.",
-        "abordagem_visual": "Estilo fluido evocando movimento e conectividade, incorporando a fita do logo Papirus para reforçar continuidade e identidade de marca.",
-        "versoes": ["References research", "Outlined version", "Solid version"],
-        "colaboradores": ["Agência Regentes", "K Brandcare"],
-        "papel": "Ilustradora"
+        "categorias": [
+          "Infographics",
+          "Illustration"
+        ],
+        "cliente": "Papirus (cardboard manufacturer)",
+        "descricao": "Development of an infographic to communicate Papirus's recycled paper cycle in partnership with the Pólen certification body.",
+        "abordagem_visual": "Fluid style evoking movement and connectivity, incorporating the Papirus logo ribbon to reinforce continuity and brand identity.",
+        "versoes": [
+          "References research",
+          "Outlined version",
+          "Solid version"
+        ],
+        "colaboradores": [
+          "Agência Regentes",
+          "K Brandcare"
+        ],
+        "papel": "Illustrator",
+        "cover": "/projects/papirus-illustration.jpeg"
       },
       {
         "titulo": "Keely Denham: Illustration + Promotional",
         "url": "https://louisekanefuku.com/keely-denham",
-        "categorias": ["Illustration", "Promotional"],
-        "cliente": "Keely Denham (cantora australiana busker)",
-        "descricao": "Criação de identidade visual para música independente, traduzindo a sensibilidade emocional das composições em linguagem visual distintiva.",
-        "abordagem_visual": "Série de pinturas em aquarela ilustrando as canções, design de envelopes de pôster para CD em formato A4 econômico.",
-        "entregas": ["Pinturas em aquarela", "Design de embalagem A4 para CD", "Materiais de promoção digital e física"],
-        "colaboradores": ["Keely Denham (artista)", "Nicolle Maia (produtora)", "Alexandre Bisognin (animação)"],
-        "obras_relacionadas": ["Leaves (álbum Spotify)", "Like (Dying)", "Blue Leaves Cover"],
-        "papel": "Ilustradora e designer"
+        "categorias": [
+          "Illustration",
+          "Promotional"
+        ],
+        "cliente": "Keely Denham (Australian busker singer)",
+        "descricao": "Creation of a visual identity for an independent musician, translating the emotional sensitivity of the compositions into a distinctive visual language.",
+        "abordagem_visual": "A series of watercolor paintings illustrating the songs, poster/CD envelope design in an economical A4 format.",
+        "entregas": [
+          "Watercolor paintings",
+          "A4 CD packaging design",
+          "Digital and physical promotional materials"
+        ],
+        "colaboradores": [
+          "Keely Denham (artist)",
+          "Nicolle Maia (producer)",
+          "Alexandre Bisognin (animation)"
+        ],
+        "obras_relacionadas": [
+          "Leaves (Spotify album)",
+          "Like (Dying)",
+          "Blue Leaves Cover"
+        ],
+        "papel": "Illustrator and Designer",
+        "cover": "/projects/keely-denham.jpg"
       },
       {
         "titulo": "Cuco Produções: Visual Identity",
         "url": "https://louisekanefuku.com/cuco-producoes",
-        "categorias": ["Brand", "Visual Identity", "Logo Design"],
-        "cliente": "Cuco Produções (empresa de produção cultural, Porto Alegre, Brasil)",
+        "categorias": [
+          "Brand",
+          "Visual Identity",
+          "Logo Design"
+        ],
+        "cliente": "Cuco Produções (cultural production company, Porto Alegre, Brazil)",
         "website_cliente": "cucoproducoes.com.br",
-        "descricao": "Desenvolvimento de identidade visual para empresa de produção cultural, criando logotipo vibrante inspirado no pássaro cuco.",
-        "abordagem_visual": "Paleta de alto contraste em preto e amarelo transmitindo vitalidade e energia comunicativa.",
-        "entregas": ["Logo", "Stickers"],
-        "papel": "Solo Brand Designer"
+        "descricao": "Development of a visual identity for a cultural production company, creating a vibrant logotype inspired by the cuckoo bird.",
+        "abordagem_visual": "High-contrast black and yellow palette conveying vitality and communicative energy.",
+        "entregas": [
+          "Logo",
+          "Stickers"
+        ],
+        "papel": "Solo Brand Designer",
+        "cover": "/projects/cuco-producoes.jpg"
       },
       {
         "titulo": "FOX | The Walking Dead",
         "url": "https://louisekanefuku.com/fox-campaign-adaptation",
-        "categorias": ["Digital Marketing", "Brand", "Key Art"],
+        "categorias": [
+          "Digital Marketing",
+          "Brand",
+          "Key Art"
+        ],
         "cliente": "Disney+/FOX Portugal",
-        "descricao": "Adaptação de campanha para o mercado português para a última temporada de The Walking Dead, a partir de assets visuais fornecidos (imagens e logo).",
-        "entregas_quantidade": "Mais de 50 banners, pop-ups e materiais OOH",
-        "tipo_trabalho": ["Key art", "Print", "Digital marketing", "OOH (Out of Home)", "Banners e pop-ups"],
-        "papel": "Art Director (seguindo direção criativa)"
+        "descricao": "Campaign adaptation for the Portuguese market for the final season of The Walking Dead, working from provided visual assets (images and logo).",
+        "entregas_quantidade": "Over 50 banners, pop-ups, and OOH materials",
+        "tipo_trabalho": [
+          "Key art",
+          "Print",
+          "Digital marketing",
+          "OOH (Out of Home)",
+          "Banners and pop-ups"
+        ],
+        "papel": "Art Director (following creative direction)",
+        "cover": "/projects/fox-campaign-adaptation.jpg"
       },
       {
         "titulo": "FOX Crime | My Life is a Murder",
         "url": "https://louisekanefuku.com/fox-campaign-development",
-        "categorias": ["Campaign Development", "Key Art", "Digital Marketing"],
+        "categorias": [
+          "Campaign Development",
+          "Key Art",
+          "Digital Marketing"
+        ],
         "cliente": "Disney+/Fox Portugal",
-        "descricao": "Campanha promocional para a série My Life is a Murder lançada na FOX Crime em Portugal.",
-        "abordagem_visual": "Composição utilizando skyline de Nova Iorque (cidade onde a série é filmada) combinada com fotografias do lançamento.",
-        "processo": "Prazo de um turno, seguindo diretrizes FOX Crime e aprovação do diretor criativo.",
-        "papel": "Art Director"
+        "descricao": "Promotional campaign for the series My Life is a Murder launched on FOX Crime in Portugal.",
+        "abordagem_visual": "Composition using the New York City skyline (where the series is filmed) combined with launch photographs.",
+        "processo": "One-shift deadline, following FOX Crime guidelines and creative director approval.",
+        "papel": "Art Director",
+        "cover": "/projects/fox-campaign-development.png"
       },
       {
-        "titulo": "Estudo sobre a Insônia",
+        "titulo": "Insomnia Study",
         "url": "https://louisekanefuku.com/estudo-sobre-a-insonia",
-        "categorias": ["Art Project", "Fine Art", "Drawing"],
-        "descricao": "Série de desenhos criada após experiência pessoal com insônia durante período estressante. Figuras submersas baseadas em fotografias subaquáticas, suspensas no vazio, enfatizando a solidão típica da insônia.",
-        "ano": "2013-2015",
-        "tecnica": "Lápis sobre papel",
-        "dimensoes": ["1,5m × 2m (2013)", "1,5m × 2,1m (2015)", "1,5m × 2,3m (2015)", "81,5cm × 69cm (2015)"],
-        "exposicoes_publicacoes": [
-          "Coleção UFCSPA (Federal University of Science Studies of Porto Alegre)",
-          "Artist Book publicado por Azulejo Arte Impressa",
-          "Exposição em arte fair em São Paulo (2016)",
-          "Publicado em jornais e residências particulares"
+        "categorias": [
+          "Art Project",
+          "Fine Art",
+          "Drawing"
         ],
-        "colaboradora": "Elisa Maia (texto crítico)"
+        "descricao": "A drawing series created following a personal experience with insomnia during a stressful period. Submerged figures based on underwater photographs, suspended in the void, emphasizing the loneliness typical of insomnia.",
+        "ano": "2013–2015",
+        "tecnica": "Pencil on paper",
+        "dimensoes": [
+          "1.5m × 2m (2013)",
+          "1.5m × 2.1m (2015)",
+          "1.5m × 2.3m (2015)",
+          "81.5cm × 69cm (2015)"
+        ],
+        "exposicoes_publicacoes": [
+          "UFCSPA Collection (Federal University of Health Sciences of Porto Alegre)",
+          "Artist Book published by Azulejo Arte Impressa",
+          "Exhibition at art fair in São Paulo (2016)",
+          "Published in newspapers and private residences"
+        ],
+        "colaboradora": "Elisa Maia (critical text)",
+        "cover": "/projects/estudo-sobre-a-insonia.jpg"
       },
       {
         "titulo": "I wish I were a whale",
         "url": "https://louisekanefuku.com/i-wish-i-was-a-whale",
-        "categorias": ["Art Project", "Drawing", "Fine Art"],
-        "descricao": "Série de obras explorando migração humana como fenómeno sistémico, após relocação do Brasil para Portugal. Projeto final do Master em Fine Arts na Universidade do Porto.",
-        "contexto": "Derivado da performance 'Escuto Histórias de Imigrantes', apresentada em Lote67 (Porto), onde a artista engajou com narrativas de 23 imigrantes.",
+        "categorias": [
+          "Art Project",
+          "Drawing",
+          "Fine Art"
+        ],
+        "descricao": "A body of works exploring human migration as a systemic phenomenon, following relocation from Brazil to Portugal. Final project of the Master in Fine Arts at the University of Porto.",
+        "contexto": "Derived from the performance 'Escuto Histórias de Imigrantes', presented at Lote67 (Porto), where the artist engaged with the narratives of 23 immigrants.",
         "reconhecimentos": [
-          "Arte Jovem 2020 (Millenium BCP)",
-          "Exposição individual em Abreu Advogados, Lisboa (2021)"
+          "Arte Jovem 2020 — Millenium BCP",
+          "Solo exhibition at Abreu Advogados, Lisbon (2021)"
         ],
         "obras": [
-          { "titulo": "Escuto Histórias de Imigrantes", "ano": 2020, "tecnica": "Aquarela", "dimensoes": "50x70cm" },
-          { "titulo": "Travessia", "ano": 2021, "tecnica": "Lápis", "dimensoes": "70x100cm" },
-          { "titulo": "Troff", "ano": 2021, "tecnica": "Grafite", "dimensoes": "70x100cm" },
-          { "titulo": "Liberdade", "ano": 2021, "tecnica": "Grafite", "dimensoes": "76x56cm" },
-          { "titulo": "Serena", "ano": 2020, "tecnica": "Pastel seco", "dimensoes": "150x220cm" }
-        ]
+          {
+            "titulo": "Escuto Histórias de Imigrantes",
+            "ano": 2020,
+            "tecnica": "Watercolor",
+            "dimensoes": "50×70cm"
+          },
+          {
+            "titulo": "Travessia",
+            "ano": 2021,
+            "tecnica": "Pencil",
+            "dimensoes": "70×100cm"
+          },
+          {
+            "titulo": "Troff",
+            "ano": 2021,
+            "tecnica": "Graphite",
+            "dimensoes": "70×100cm"
+          },
+          {
+            "titulo": "Liberdade",
+            "ano": 2021,
+            "tecnica": "Graphite",
+            "dimensoes": "76×56cm"
+          },
+          {
+            "titulo": "Serena",
+            "ano": 2020,
+            "tecnica": "Dry pastel",
+            "dimensoes": "150×220cm"
+          }
+        ],
+        "cover": "/projects/i-wish-i-was-a-whale.jpg"
       },
       {
         "titulo": "When we made the ocean a river",
         "url": "https://louisekanefuku.com/de-quando-fizemos-do-oceano-rio",
         "titulo_pt": "De quando fizemos do oceano rio",
-        "categorias": ["Art Project", "Drawing", "Performance"],
-        "descricao": "Meditação poética sobre migração, conexão e o desejo universal de pertencimento. Perspectiva utópica de um mundo sem fronteiras, com animais migrantes como motivo central que desafia a noção de fronteiras como construtos fixos.",
-        "ano": "2017-2018",
-        "obras": [
-          "Desenhos em grafite e carvão (até 2,40m)",
-          "Postcards (2018)",
-          "Instalação com 82 chás (2018)",
-          "Vídeo de performance: Desaguar a saudade",
-          "Animação GIF"
+        "categorias": [
+          "Art Project",
+          "Drawing",
+          "Performance"
         ],
-        "exposicao": "Coletiva NE-SE (2018), Lugar do Desenho, Gondomar, Portugal",
-        "papel": "Artista solo"
+        "descricao": "A poetic meditation on migration, connection, and the universal desire to belong. A utopian perspective of a world without borders, with migratory animals as the central motif, challenging the notion of borders as fixed constructs.",
+        "ano": "2017–2018",
+        "obras": [
+          "Graphite and charcoal drawings (up to 2.40m)",
+          "Postcards (2018)",
+          "Installation with 82 teas (2018)",
+          "Performance video: Desaguar a saudade",
+          "GIF animation"
+        ],
+        "exposicao": "Group show NE-SE (2018), Lugar do Desenho, Gondomar, Portugal",
+        "papel": "Solo Artist",
+        "cover": "/projects/de-quando-fizemos-do-oceano-rio.jpg"
       }
     ]
   },
   "portfolio_arte": {
     "url": "https://art.louisekanefuku.com",
-    "bio": "Louise Kanefuku (Porto Alegre/BR, 1985) é artista e designer com mestrado em Artes Plásticas pela Universidade do Porto. Descendente de imigrantes japoneses, sua obra explora migração através do desenho, influenciada por sua experiência em Portugal (2017-2021).",
+    "bio": "Louise Kanefuku (Porto Alegre/BR, 1985) is an artist and designer with a Master's in Fine Arts from the University of Porto. Of Japanese immigrant descent, her work explores migration through drawing, shaped by her experience in Portugal (2017–2021).",
     "sobre_url": "https://art.louisekanefuku.com/about-sobre",
-    "acervos": ["MARGS", "MACRS", "UFCSPA"],
-    "premios": ["Prêmio Arte Jovem 2020 (Fundação Millenium BCP, Lisboa)", "Premiada em salões de Porto Alegre"],
+    "acervos": [
+      "MARGS",
+      "MACRS",
+      "UFCSPA"
+    ],
+    "premios": [
+      "Arte Jovem Award 2020 (Fundação Millenium BCP, Lisbon)",
+      "Award winner at Porto Alegre salons"
+    ],
     "secoes": [
-      { "nome": "Desenho | Drawing", "url": "https://art.louisekanefuku.com/drawing" },
-      { "nome": "Performance", "url": "https://art.louisekanefuku.com/performance" }
+      {
+        "nome": "Drawing",
+        "url": "https://art.louisekanefuku.com/drawing"
+      },
+      {
+        "nome": "Performance",
+        "url": "https://art.louisekanefuku.com/performance"
+      }
     ],
     "projetos_desenho": [
       {
         "titulo": "I wish I were a whale",
         "url": "https://art.louisekanefuku.com/i-wish-i-was-a-whale",
-        "nota": "Ver também em portfolio_principal"
+        "nota": "See also in portfolio_principal",
+        "cover": "/arte/i-wish-i-was-a-whale.jpg"
       },
       {
         "titulo": "Pequenos Martírios Indolores",
-        "titulo_en": "Painless Small Martydoms",
+        "titulo_en": "Painless Small Martyrdoms",
         "url": "https://art.louisekanefuku.com/pequenos-martirios-indolores",
-        "ano": "2012-2014",
-        "descricao": "Série que explora a relação entre o corpo da artista e situações de desconforto. Pequenas figuras baseadas em fotos do próprio corpo em posições não confortáveis, dispostas em arranjos que remetem a martírios.",
-        "tecnicas": ["Grafite", "Caneta e café sobre papel", "Papel manteiga", "Papel vegetal", "Papel japonês", "Papel Canson Vivaldi", "Fita hipoalergênica", "Linha"],
-        "formato_especial": "Livro de artista (seis volumes da Enciclopédia Barsa)",
-        "dimensoes": ["30×21cm", "42×30cm", "23,5×21,5cm", "27×40cm", "55×26cm"],
-        "texto_critico": "Prof. Dr. Flávio Gonçalves — destaca a delicadeza com que as imagens são tratadas e a identidade da artista como signo multiplicável."
+        "ano": "2012–2014",
+        "descricao": "A series exploring the relationship between the artist's body and situations of discomfort. Small figures based on photographs of the artist's own body in uncomfortable positions, arranged in compositions reminiscent of martyrdoms.",
+        "tecnicas": [
+          "Graphite",
+          "Pen and coffee on paper",
+          "Butter paper",
+          "Tracing paper",
+          "Japanese paper",
+          "Canson Vivaldi paper",
+          "Hypoallergenic tape",
+          "Thread"
+        ],
+        "formato_especial": "Artist's book (six volumes of the Barsa Encyclopedia)",
+        "dimensoes": [
+          "30×21cm",
+          "42×30cm",
+          "23.5×21.5cm",
+          "27×40cm",
+          "55×26cm"
+        ],
+        "texto_critico": "Prof. Dr. Flávio Gonçalves — highlights the delicacy with which the images are treated and the artist's identity as a repeatable sign.",
+        "cover": "/arte/pequenos-martirios-indolores.jpg"
       },
       {
         "titulo": "De quando fizemos do oceano rio",
         "titulo_en": "When we made the ocean a river",
         "url": "https://art.louisekanefuku.com/de-quando-fizemos-do-oceano-rio",
-        "nota": "Ver também em portfolio_principal"
+        "nota": "See also in portfolio_principal",
+        "cover": "/arte/de-quando-fizemos-do-oceano-rio.jpg"
       },
       {
         "titulo": "Estudo sobre a Insônia",
-        "titulo_en": "Insomnia study",
+        "titulo_en": "Insomnia Study",
         "url": "https://art.louisekanefuku.com/estudo-sobre-a-insonia",
-        "nota": "Ver também em portfolio_principal"
+        "nota": "See also in portfolio_principal",
+        "cover": "/arte/estudo-sobre-a-insonia.jpg"
       }
     ],
     "projetos_performance": [
@@ -289,68 +570,87 @@
         "titulo_en": "All the moles of my body",
         "url": "https://art.louisekanefuku.com/todas-as-pintas-do-meu-corpo",
         "ano": 2015,
-        "descricao": "Obra participativa que distribui ao público 134 pintas de papel numeradas e individualmente embaladas. Cada mole é único e reprodutível, individual e coletivo simultaneamente.",
-        "conceito": "Remoção da linha do desenho, deixando apenas pontos — alusão aos livros infantis de ligar os pontos. Questiona nossa falta de consciência sobre detalhes do próprio corpo.",
-        "texto_critico": "Charlene Cabral — '134 moles devidamente numerados e envelopados por Louise, distribuídas ao público, resguardadas em suas importâncias, únicas e coletivas ao mesmo tempo.'",
-        "tipo": "Performance/Instalação interativa"
+        "descricao": "A participatory work that distributes 134 individually packaged numbered paper moles to the audience. Each mole is unique and reproducible, individual and collective at the same time.",
+        "conceito": "Removal of the drawn line, leaving only dots — an allusion to children's dot-to-dot books. It questions our lack of awareness about the details of our own bodies.",
+        "texto_critico": "Charlene Cabral — '134 moles duly numbered and enveloped by Louise, distributed to the audience, each held in their importance, unique and collective at the same time.'",
+        "tipo": "Performance / Interactive Installation",
+        "cover": "/arte/todas-as-pintas-do-meu-corpo.jpg"
       },
       {
         "titulo": "Levando a linha para passear",
         "titulo_en": "Taking the line for a walk",
         "url": "https://art.louisekanefuku.com/levando-a-linha-para-passear",
         "ano": 2014,
-        "descricao": "Performance em que a artista traça uma linha com giz do seu endereço residencial até o Instituto de Artes — um trajeto pessoal percorrido durante anos.",
-        "conceito": "Questiona: 'E se, sempre que andássemos, deixássemos uma linha onde passamos?' O deslocamento cotidiano torna-se registro visual e afetivo.",
-        "tecnica": "Giz",
-        "tipo": "Performance / Intervenção urbana"
+        "descricao": "A performance in which the artist traces a chalk line from her home address to the Institute of Arts — a personal route she walked for years.",
+        "conceito": "It asks: 'What if, every time we walked, we left a line behind us?' The everyday commute becomes a visual and emotional record.",
+        "tecnica": "Chalk",
+        "tipo": "Performance / Urban Intervention",
+        "cover": "/arte/levando-a-linha-para-passear.jpg"
       },
       {
         "titulo": "Tudo o que meu corpo toca",
         "titulo_en": "Everything my body touches",
         "url": "https://art.louisekanefuku.com/tudo-o-que-meu-corpo-toca",
         "ano": 2017,
-        "descricao": "Documentação de todos os objetos que o corpo da artista tocou durante um dia completo de existência, criando uma lista que evidencia o rastro invisível de nossa interação diária com o mundo material.",
+        "descricao": "Documentation of every object the artist's body touched over the course of a full day, creating a list that makes visible the invisible trace of our daily interaction with the material world.",
         "exposicao": "Projeto Garagem Aura, Galeria Aura, Porto Alegre",
-        "texto_critico": "Talitha Motter — 'A proposição da artista de anotar tudo o que seu corpo encostava em um dia de existência induz possíveis narrativas para esse período de 24h.'",
-        "tipo": "Performance / Arte conceitual"
+        "texto_critico": "Talitha Motter — 'The artist's proposition of noting everything her body touched in a day of existence induces possible narratives for that 24-hour period.'",
+        "tipo": "Performance / Conceptual Art",
+        "cover": "/arte/tudo-o-que-meu-corpo-toca.jpg"
       },
       {
         "titulo": "Work in regress. Atos de presença",
         "titulo_en": "Work in regress. Acts of presence",
         "url": "https://art.louisekanefuku.com/work-in-regress-atos-de-presenca",
         "ano": 2018,
-        "descricao": "Vídeo-performance em que a artista caminha de casa até o trabalho de costas. O trajeto cotidiano é ressignificado, transformando uma rotina automatizada em gesto artístico consciente.",
-        "conceito": "Integrar prática artística a uma vida profissional convencional, utilizando o próprio corpo e deslocamento como material criativo.",
-        "tipo": "Vídeo-performance"
+        "descricao": "A video-performance in which the artist walks from home to work backwards. The everyday commute is recontextualized, transforming an automated routine into a conscious artistic gesture.",
+        "conceito": "To integrate artistic practice into a conventional professional life, using the body itself and displacement as creative material.",
+        "tipo": "Video-performance",
+        "cover": "/arte/work-in-regress-atos-de-presenca.jpg"
       },
       {
         "titulo": "Retratos de Giz",
-        "titulo_en": "Chalk portraits",
+        "titulo_en": "Chalk Portraits",
         "url": "https://art.louisekanefuku.com/retratos-de-giz",
         "ano": 2017,
-        "descricao": "Projeto que convida amigos a terem suas silhuetas desenhadas com giz nas paredes da cidade do Porto, respondendo à perceção de que a cidade recebe e deixa partir muitas pessoas continuamente.",
-        "conceito": "Marcas efêmeras na paisagem urbana como desejo de fixar memórias de novos amigos.",
-        "participantes": ["Cadu", "Mers", "Diego"],
-        "tecnica": "Giz em muros urbanos",
-        "tipo": "Performance / Intervenção urbana"
+        "descricao": "A project that invites friends to have their silhouettes drawn in chalk on the walls of the city of Porto, responding to the perception that the city continuously receives and lets go of many people.",
+        "conceito": "Ephemeral marks in the urban landscape as a desire to fix memories of new friends.",
+        "participantes": [
+          "Cadu",
+          "Mers",
+          "Diego"
+        ],
+        "tecnica": "Chalk on urban walls",
+        "tipo": "Performance / Urban Intervention",
+        "cover": "/arte/retratos-de-giz.jpg"
       },
       {
         "titulo": "Escuto Histórias de Imigrantes",
         "titulo_en": "I listen to immigrant stories",
         "url": "https://art.louisekanefuku.com/escuto-historias-de-imigrantes",
         "ano": 2019,
-        "descricao": "Performance que convida pessoas a compartilharem suas histórias em encontros individuais, invertendo a posição tradicional do artista como emissor. Cria 'um intervalo de tempo que antes não existia' entre desconhecidos com experiências migratórias similares.",
-        "inspiracao": "Trabalho 'Ouvidoria' da atriz Luciana Paz",
+        "descricao": "A performance that invites people to share their stories in individual encounters, inverting the traditional position of the artist as speaker. It creates 'a space in time that did not previously exist' between strangers with similar migration experiences.",
+        "inspiracao": "The work 'Ouvidoria' by actress Luciana Paz",
         "localizacoes": [
-          "Lote 67, Centro Comercial Cedofeita (16 mar – 6 abr 2019)",
-          "Festival Sonora, Rosa Imunda (7 abr 2019)",
-          "Festival Feminista do Porto (2019)"
+          "Lote 67, Cedofeita Commercial Center (16 Mar – 6 Apr 2019)",
+          "Sonora Festival, Rosa Imunda (7 Apr 2019)",
+          "Porto Feminist Festival (2019)"
         ],
-        "participantes": ["Louise Kanefuku", "Bianca Stanea (diretora de teatro)", "Kaija Clinton (storyteller)"],
-        "nota": "Nenhuma fala foi gravada ou compartilhada",
+        "participantes": [
+          "Louise Kanefuku",
+          "Bianca Stanea (theatre director)",
+          "Kaija Clinton (storyteller)"
+        ],
+        "nota": "No speech was recorded or shared",
         "texto_curatorial": "Talitha Motter",
-        "fotografos": ["Silvestre Pestana", "Chana de Moura", "Louise Kanefuku", "Martina Alves"],
-        "tipo": "Performance"
+        "fotografos": [
+          "Silvestre Pestana",
+          "Chana de Moura",
+          "Louise Kanefuku",
+          "Martina Alves"
+        ],
+        "tipo": "Performance",
+        "cover": "/arte/escuto-historias-de-imigrantes.jpg"
       }
     ]
   }

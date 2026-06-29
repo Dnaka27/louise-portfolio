@@ -47,6 +47,8 @@
   background: linear-gradient(135deg, #C9C5D2 0%, #D2C8C8 100%);
   margin-bottom: 4rem;
   animation: imageReveal 0.9s var(--ease) 0.2s both;
+  object-fit: cover;
+  display: block;
 }
 
 /* ── Body layout ────────────────────────────────────── */
